@@ -1,4 +1,2 @@
 <?php
-print("version 1.1");
-echo 'Hello world';
-echo "Don't change it anymore";
+echo "This a new version, updated by a new branch";
